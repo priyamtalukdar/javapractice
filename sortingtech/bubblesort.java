@@ -13,8 +13,10 @@ public class bubblesort {
                   arr[j+1] = temp;
                 }
             }
+            
         }
     }
+    // 
     public static void main(String[] args) {
         int arr[] = {3,1,5,4,2};
          sort(arr);

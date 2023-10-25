@@ -17,3 +17,6 @@ public class permutauions {
       perm("","abc"); 
     }
 }
+// a/bc
+// ab//ba /c
+// cab//acb//abc //cba //bca //bac
